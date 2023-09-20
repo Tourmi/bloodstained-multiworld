@@ -1,0 +1,11 @@
+Saveslot item arrays start with 0x4 bytes giving the size of the array
+
+saveslot item struct: size: 0x18 + ItemIdLength
++0      ItemId Length
++4      Null terminated ItemId (variable length)
++?+0    Item count
++?+4    Item order
++?+8    ?
++?+C    ?
++?+10   ? (1 for Cookies)
++?+14   ?

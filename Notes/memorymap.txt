@@ -1,0 +1,117 @@
+Ptr5        -> Value                       = (Manju Count)
+Ptr4        -> Addr5       + 2*78 + 48     = Ptr5 (Ptr to Manju Count)
+Ptr3        -> Addr4       + 9C8           = Ptr4 (Ptr to Item Inventory)
+Ptr2        -> Addr3       + D28           = Ptr3 (Ptr to Inventories)
+Ptr1        -> Addr2       + 508           = Ptr2 (Ptr to ???)
+               +0AAB30B0   + 30            = Ptr1 (Ptr to ???)
+
+Possible StartPtr:
+Static Offset,  Offset1,    Offset2
++0AAB30B0,      +30,        +508
++0AAB30B0,      +30,        +4B8
++0AAB30B0,      +30,        +4C8
++0AABEC88,      +0,         +20
++0AABEC88,      +0,         +220
+
+Inventories,    Offset3,    Offset4
+StartPtr        +D28        +968
+
+Vector
+Struct size: 0x10
++0  Array Pointer
++8  Count
++C  Capacity
+
+Inventory:
+Struct size: 0x78
++00  ID
++04  MSB of ID?
++08  Icon Name pointer (string vector)
++18  Pointer to Name (goto offset 0x28 or 0x38 for string vector)
++20  Unknown Pointer
++28  Unknown (0x12 for seemingly everything)
+
++2C  Unknown (MSB of a pointer??)
++30  Description Pointer (goto offset 0x28 or 0x38 for string vector)
++38  Unknown Pointer
++40  Unknown (0x12 for seemingly everything)
++44  Unknown (Unused in weapons?)
++48  Total Amount
++4C  Max amount
+
++50  Unknown (0x00 for seemingly all weapons)
++54  Index (Increment)
++58  Unknown (0xFF00 or 0x0001 for seemingly all weapons)
++5C  Unknown (0x000358C2 for most weapons)
++60  Unknown (0x00000000 for seemingly all weapons)
++64  Unknown (0x07 weapons, 0x05 for books)
++68  Unknown (Knife is 0x258, empty for book)
++6C  Unknown (Knife is 0x3C, empty for book)
++70  Item Category? (1 or 2 bytes)
++72  Unknown (Unused in weapons?)
++74  Unknown (Unused in weapons?)
+
+Borrowed Book
+Struct Size: 0x58
++00  ID
++04  MSB of ID?
++08  Pointer
++10  Icon Type??
++14  ???
++18  Pointer
++20  Pointer
++28  Unknown (0x12 for some reason)
++2C  Unknown
++30  Pointer
++38  Pointer
++40  Unknown (0x12 for some reason)
++44  Unknown
++48  Unknown (0x00010001 for some reason)
++4C  Unknown
++50  Pointer
+
+Inventory Arrays (0x10 bytes per entry)
++0: Pointer to array
++8: Array Count
++C: Array Capacity
+
+Assume struct size of 0x78 for array elements
+00: Weapons
+01: Bullets
+02: Armors
+03: Helmets
+04: Accessories
+05: Scarves
+06: Potions & Food
+07: Materials & Ingredients
+08: Key Items
+09: Books
+10: Borrowed Books (struct size: 0x58)
+11: Red Shards
+12: Blue Shards
+13: Purple Shards
+14: Yellow Shards
+15: Green Shards
+16: Skill Shards
+
+
+GetItemName struct: (0x100 bytes)
++00     Code Pointer
++08     Icon path string Pointer (ex "336" string)
++10     4, 8
++18     Some value
++20     ITEM_NAME_MeltedBone (Translation key)
++28     15?
++2C     18?
++30     ITEM_EXPLAIN_MeltedBone (Translation key)
++38     18?
++3C     18?
++40     63
++44     64
++48     A?
++4C     00000000
++8C     8?
++94     54B00
++9C     2F800
+
+

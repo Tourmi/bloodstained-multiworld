@@ -1,5 +1,5 @@
 # Bloodstained Multiworld
-The goal of this project is to bring multiworld (more specifically, [Archipelago](https://archipelago.gg/)) to **Bloodstained Ritual of the Night**
+The goal of this project is to bring multiworld support (more specifically, [Archipelago](https://archipelago.gg/)) to **Bloodstained Ritual of the Night**
 
 ## Structure
 * BloodstainedMemoryManipulator

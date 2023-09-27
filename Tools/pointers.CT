@@ -4,6 +4,7 @@
     <CheatEntry>
       <ID>182</ID>
       <Description>"Cash"</Description>
+      <LastState Value="557673" RealAddress="24C84830430"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAD1978</Address>
@@ -16,6 +17,7 @@
     <CheatEntry>
       <ID>1</ID>
       <Description>"Manju Ptr1"</Description>
+      <LastState Value="105" RealAddress="24C94BF56B8"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
@@ -30,6 +32,7 @@
     <CheatEntry>
       <ID>2</ID>
       <Description>"Manju Ptr2"</Description>
+      <LastState Value="105" RealAddress="24C94BF56B8"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AABEC88</Address>
@@ -44,6 +47,7 @@
     <CheatEntry>
       <ID>3</ID>
       <Description>"Manju Ptr3"</Description>
+      <LastState Value="105" RealAddress="24C94BF56B8"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
@@ -58,6 +62,7 @@
     <CheatEntry>
       <ID>4</ID>
       <Description>"Manju Ptr4"</Description>
+      <LastState Value="105" RealAddress="24C94BF56B8"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AABEC88</Address>
@@ -72,6 +77,7 @@
     <CheatEntry>
       <ID>5</ID>
       <Description>"Manju Ptr5"</Description>
+      <LastState Value="105" RealAddress="24C94BF56B8"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
@@ -92,6 +98,7 @@
     <CheatEntry>
       <ID>16</ID>
       <Description>"Gale Crawler Ptr1"</Description>
+      <LastState Value="7" RealAddress="24C9A6322F0"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
@@ -106,6 +113,7 @@
     <CheatEntry>
       <ID>17</ID>
       <Description>"Gale Crawler Ptr2"</Description>
+      <LastState Value="7" RealAddress="24C9A6322F0"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AABEC88</Address>
@@ -120,6 +128,7 @@
     <CheatEntry>
       <ID>18</ID>
       <Description>"Gale Crawler Ptr3"</Description>
+      <LastState Value="7" RealAddress="24C9A6322F0"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
@@ -134,6 +143,7 @@
     <CheatEntry>
       <ID>19</ID>
       <Description>"Gale Crawler Ptr4"</Description>
+      <LastState Value="7" RealAddress="24C9A6322F0"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AABEC88</Address>
@@ -148,6 +158,7 @@
     <CheatEntry>
       <ID>20</ID>
       <Description>"Gale Crawler Ptr5"</Description>
+      <LastState Value="7" RealAddress="24C9A6322F0"/>
       <ShowAsSigned>0</ShowAsSigned>
       <VariableType>4 Bytes</VariableType>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
@@ -169,7 +180,7 @@
       <ID>31</ID>
       <Description>"InventoryArrays"</Description>
       <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
-      <LastState Value="" RealAddress="00000000"/>
+      <LastState Value="" RealAddress="24C9EB4E988"/>
       <ShowAsHex>1</ShowAsHex>
       <ShowAsSigned>0</ShowAsSigned>
       <GroupHeader>1</GroupHeader>
@@ -185,6 +196,7 @@
           <ID>28</ID>
           <Description>"WeaponsArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C93375560" RealAddress="24C9EB4E988"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -193,6 +205,7 @@
             <CheatEntry>
               <ID>29</ID>
               <Description>"Count"</Description>
+              <LastState Value="166" RealAddress="24C9EB4E990"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -200,6 +213,7 @@
             <CheatEntry>
               <ID>30</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="182" RealAddress="24C9EB4E994"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -210,6 +224,7 @@
           <ID>32</ID>
           <Description>"BulletArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C9A4BD850" RealAddress="24C9EB4E998"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -218,6 +233,7 @@
             <CheatEntry>
               <ID>80</ID>
               <Description>"Count"</Description>
+              <LastState Value="15" RealAddress="24C9EB4E9A0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -225,6 +241,7 @@
             <CheatEntry>
               <ID>81</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="16" RealAddress="24C9EB4E9A4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -235,6 +252,7 @@
           <ID>35</ID>
           <Description>"ChestArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C9D3EC4F0" RealAddress="24C9EB4E9A8"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -243,6 +261,7 @@
             <CheatEntry>
               <ID>82</ID>
               <Description>"Count"</Description>
+              <LastState Value="40" RealAddress="24C9EB4E9B0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -250,6 +269,7 @@
             <CheatEntry>
               <ID>83</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="42" RealAddress="24C9EB4E9B4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -260,6 +280,7 @@
           <ID>38</ID>
           <Description>"HeadArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C92FB50B0" RealAddress="24C9EB4E9B8"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -268,6 +289,7 @@
             <CheatEntry>
               <ID>84</ID>
               <Description>"Count"</Description>
+              <LastState Value="34" RealAddress="24C9EB4E9C0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -275,6 +297,7 @@
             <CheatEntry>
               <ID>85</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="34" RealAddress="24C9EB4E9C4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -285,6 +308,7 @@
           <ID>41</ID>
           <Description>"AccessoryArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C958CEAB0" RealAddress="24C9EB4E9C8"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -293,6 +317,7 @@
             <CheatEntry>
               <ID>86</ID>
               <Description>"Count"</Description>
+              <LastState Value="45" RealAddress="24C9EB4E9D0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -300,6 +325,7 @@
             <CheatEntry>
               <ID>87</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="45" RealAddress="24C9EB4E9D4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -310,6 +336,7 @@
           <ID>44</ID>
           <Description>"ScarfArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C9F395600" RealAddress="24C9EB4E9D8"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -318,6 +345,7 @@
             <CheatEntry>
               <ID>88</ID>
               <Description>"Count"</Description>
+              <LastState Value="11" RealAddress="24C9EB4E9E0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -325,6 +353,7 @@
             <CheatEntry>
               <ID>89</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="11" RealAddress="24C9EB4E9E4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -335,6 +364,7 @@
           <ID>47</ID>
           <Description>"PotionFoodArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C94BF5580" RealAddress="24C9EB4E9E8"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -343,6 +373,7 @@
             <CheatEntry>
               <ID>90</ID>
               <Description>"Count"</Description>
+              <LastState Value="83" RealAddress="24C9EB4E9F0"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -350,6 +381,7 @@
             <CheatEntry>
               <ID>91</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="90" RealAddress="24C9EB4E9F4"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -360,6 +392,7 @@
           <ID>50</ID>
           <Description>"MatIngredientArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C92F35560" RealAddress="24C9EB4E9F8"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -368,6 +401,7 @@
             <CheatEntry>
               <ID>92</ID>
               <Description>"Count"</Description>
+              <LastState Value="182" RealAddress="24C9EB4EA00"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -375,6 +409,7 @@
             <CheatEntry>
               <ID>93</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="182" RealAddress="24C9EB4EA04"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -385,6 +420,7 @@
           <ID>53</ID>
           <Description>"KeyItemsArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C99878BC0" RealAddress="24C9EB4EA08"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -393,6 +429,7 @@
             <CheatEntry>
               <ID>94</ID>
               <Description>"Count"</Description>
+              <LastState Value="47" RealAddress="24C9EB4EA10"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -400,6 +437,7 @@
             <CheatEntry>
               <ID>95</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="49" RealAddress="24C9EB4EA14"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -410,6 +448,7 @@
           <ID>56</ID>
           <Description>"BooksArray"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C9EB4CAE0" RealAddress="24C9EB4EA18"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -418,6 +457,7 @@
             <CheatEntry>
               <ID>96</ID>
               <Description>"Count"</Description>
+              <LastState Value="21" RealAddress="24C9EB4EA20"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -425,6 +465,7 @@
             <CheatEntry>
               <ID>97</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="22" RealAddress="24C9EB4EA24"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -435,6 +476,7 @@
           <ID>59</ID>
           <Description>"BorrowedBooks"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024CB5BB3990" RealAddress="24C9EB4EA28"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -443,6 +485,7 @@
             <CheatEntry>
               <ID>98</ID>
               <Description>"Count"</Description>
+              <LastState Value="21" RealAddress="24C9EB4EA30"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -450,6 +493,7 @@
             <CheatEntry>
               <ID>99</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="23" RealAddress="24C9EB4EA34"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -460,6 +504,7 @@
           <ID>62</ID>
           <Description>"RedShard"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C9A632230" RealAddress="24C9EB4EA38"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -468,6 +513,7 @@
             <CheatEntry>
               <ID>100</ID>
               <Description>"Count"</Description>
+              <LastState Value="36" RealAddress="24C9EB4EA40"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -475,6 +521,7 @@
             <CheatEntry>
               <ID>101</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="36" RealAddress="24C9EB4EA44"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -485,6 +532,7 @@
           <ID>65</ID>
           <Description>"BlueShard"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C97CFE4A0" RealAddress="24C9EB4EA48"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -493,6 +541,7 @@
             <CheatEntry>
               <ID>102</ID>
               <Description>"Count"</Description>
+              <LastState Value="9" RealAddress="24C9EB4EA50"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -500,6 +549,7 @@
             <CheatEntry>
               <ID>103</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="9" RealAddress="24C9EB4EA54"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -510,6 +560,7 @@
           <ID>68</ID>
           <Description>"PurpleShard"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C92FB20E0" RealAddress="24C9EB4EA58"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -518,6 +569,7 @@
             <CheatEntry>
               <ID>104</ID>
               <Description>"Count"</Description>
+              <LastState Value="33" RealAddress="24C9EB4EA60"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -525,6 +577,7 @@
             <CheatEntry>
               <ID>105</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="34" RealAddress="24C9EB4EA64"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -535,6 +588,7 @@
           <ID>71</ID>
           <Description>"YellowShards"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024CC98D99A0" RealAddress="24C9EB4EA68"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -543,6 +597,7 @@
             <CheatEntry>
               <ID>106</ID>
               <Description>"Count"</Description>
+              <LastState Value="36" RealAddress="24C9EB4EA70"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -550,6 +605,7 @@
             <CheatEntry>
               <ID>107</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="36" RealAddress="24C9EB4EA74"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -560,6 +616,7 @@
           <ID>74</ID>
           <Description>"GreenShards"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024CA0AF1000" RealAddress="24C9EB4EA78"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -568,6 +625,7 @@
             <CheatEntry>
               <ID>108</ID>
               <Description>"Count"</Description>
+              <LastState Value="6" RealAddress="24C9EB4EA80"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -575,6 +633,7 @@
             <CheatEntry>
               <ID>109</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="6" RealAddress="24C9EB4EA84"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -585,6 +644,7 @@
           <ID>77</ID>
           <Description>"SkillShards"</Description>
           <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0000024C9D3E0010" RealAddress="24C9EB4EA88"/>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>8 Bytes</VariableType>
@@ -593,6 +653,7 @@
             <CheatEntry>
               <ID>110</ID>
               <Description>"Count"</Description>
+              <LastState Value="41" RealAddress="24C9EB4EA90"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+8</Address>
@@ -600,6 +661,7 @@
             <CheatEntry>
               <ID>111</ID>
               <Description>"Capacity"</Description>
+              <LastState Value="42" RealAddress="24C9EB4EA94"/>
               <ShowAsSigned>0</ShowAsSigned>
               <VariableType>4 Bytes</VariableType>
               <Address>+C</Address>
@@ -618,6 +680,7 @@
         <CheatEntry>
           <ID>114</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAD1978</Address>
           <Offsets>
@@ -629,6 +692,7 @@
         <CheatEntry>
           <ID>115</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAD1978</Address>
           <Offsets>
@@ -640,6 +704,7 @@
         <CheatEntry>
           <ID>117</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AACE540</Address>
           <Offsets>
@@ -651,6 +716,7 @@
         <CheatEntry>
           <ID>118</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AACE540</Address>
           <Offsets>
@@ -662,6 +728,7 @@
         <CheatEntry>
           <ID>119</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AACE540</Address>
           <Offsets>
@@ -673,6 +740,7 @@
         <CheatEntry>
           <ID>120</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AACDFF0</Address>
           <Offsets>
@@ -684,6 +752,7 @@
         <CheatEntry>
           <ID>121</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AACDFF0</Address>
           <Offsets>
@@ -695,6 +764,7 @@
         <CheatEntry>
           <ID>122</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
           <Offsets>
@@ -706,6 +776,7 @@
         <CheatEntry>
           <ID>123</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
           <Offsets>
@@ -717,6 +788,7 @@
         <CheatEntry>
           <ID>147</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
           <Offsets>
@@ -728,6 +800,7 @@
         <CheatEntry>
           <ID>148</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
           <Offsets>
@@ -739,6 +812,7 @@
         <CheatEntry>
           <ID>149</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
           <Offsets>
@@ -750,6 +824,7 @@
         <CheatEntry>
           <ID>150</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
           <Offsets>
@@ -761,6 +836,7 @@
         <CheatEntry>
           <ID>151</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
           <Offsets>
@@ -772,6 +848,7 @@
         <CheatEntry>
           <ID>152</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
           <Offsets>
@@ -783,6 +860,7 @@
         <CheatEntry>
           <ID>157</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45D2E0</Address>
           <Offsets>
@@ -794,6 +872,7 @@
         <CheatEntry>
           <ID>164</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A24F920</Address>
           <Offsets>
@@ -805,6 +884,7 @@
         <CheatEntry>
           <ID>177</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAD1978</Address>
           <Offsets>
@@ -815,6 +895,7 @@
         <CheatEntry>
           <ID>178</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AACE540</Address>
           <Offsets>
@@ -825,6 +906,7 @@
         <CheatEntry>
           <ID>180</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
           <Offsets>
@@ -835,10 +917,318 @@
         <CheatEntry>
           <ID>181</ID>
           <Description>"pointerscan result"</Description>
+          <LastState Value="2508490864" RealAddress="24C84830000"/>
           <VariableType>4 Bytes</VariableType>
           <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
           <Offsets>
             <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>206</ID>
+      <Description>"Potential Ptrs to IdInternalName"</Description>
+      <LastState Value="" RealAddress="00000000"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>193</ID>
+          <Description>"best pointer?"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A81CEE0</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>C18</Offset>
+            <Offset>270</Offset>
+            <Offset>F0</Offset>
+            <Offset>280</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>191</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>240</Offset>
+            <Offset>48</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>190</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>500</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>192</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>4C8</Offset>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>194</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>598</Offset>
+            <Offset>48</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>195</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>598</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>196</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AABEC88</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>220</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>197</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>4B8</Offset>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>198</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AABEC88</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>20</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>199</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>500</Offset>
+            <Offset>48</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>200</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB30B0</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>508</Offset>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>201</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>240</Offset>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>202</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>240</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>203</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>598</Offset>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>204</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>500</Offset>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>207</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>500</Offset>
+            <Offset>1B0</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>208</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>240</Offset>
+            <Offset>1B0</Offset>
+            <Offset>48</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>209</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAB2878</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>220</Offset>
+            <Offset>240</Offset>
+            <Offset>7C8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>210</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>20</Offset>
+            <Offset>580</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>212</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0AAD1978</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>60</Offset>
+            <Offset>A8</Offset>
+            <Offset>30</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>211</ID>
+          <Description>"pointerscan result"</Description>
+          <LastState Value="2289139728" RealAddress="24C936A5EF0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"BloodstainedRotN-Win64-Shipping.exe"+0A45AF40</Address>
+          <Offsets>
+            <Offset>30</Offset>
+            <Offset>A90</Offset>
+            <Offset>D28</Offset>
+            <Offset>20</Offset>
+            <Offset>580</Offset>
+            <Offset>30</Offset>
           </Offsets>
         </CheatEntry>
       </CheatEntries>
@@ -1191,6 +1581,30 @@
         <Byte>48</Byte>
       </After>
     </CodeEntry>
+    <CodeEntry Color="20000000">
+      <Description>Id to internal name</Description>
+      <AddressString>BloodstainedRotN-Win64-Shipping.exe+C23B6B</AddressString>
+      <Before>
+        <Byte>49</Byte>
+        <Byte>4C</Byte>
+        <Byte>8B</Byte>
+        <Byte>0C</Byte>
+        <Byte>D7</Byte>
+      </Before>
+      <Actual>
+        <Byte>4C</Byte>
+        <Byte>8D</Byte>
+        <Byte>14</Byte>
+        <Byte>D7</Byte>
+      </Actual>
+      <After>
+        <Byte>49</Byte>
+        <Byte>8B</Byte>
+        <Byte>C9</Byte>
+        <Byte>48</Byte>
+        <Byte>C1</Byte>
+      </After>
+    </CodeEntry>
   </CheatCodes>
   <UserdefinedSymbols/>
   <Structures StructVersion="2">
@@ -1216,6 +1630,11 @@
   <Comments>Info about this table:
 </Comments>
   <DisassemblerComments>
+    <DisassemblerComment>
+      <Address>"BloodstainedRotN-Win64-Shipping.exe"+C23B6B</Address>
+      <Comment>Accesses Id of Id to Details struct
+</Comment>
+    </DisassemblerComment>
     <DisassemblerComment>
       <Address>"BloodstainedRotN-Win64-Shipping.exe"+322B63E</Address>
       <Comment>Give Cash

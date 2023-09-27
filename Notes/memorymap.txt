@@ -95,6 +95,32 @@ Assume struct size of 0x78 for array elements
 16: Skill Shards
 
 
+All IDs to Details vector 0x10 size:
++0  Ptr to array
++8  Array count
++C  Array capacity
+
+Id details struct 0x18 size:
++00 ID
++08 Ptr to details struct
++10 0x6C??
++14 0x4A?? (maybe index?)
+
+Details struct 0x40 size:
++00 Code Ptr
++08 Icon Ptr
++10 Icon length
++14 Icon Capacity
++18 0x10??
++20 Internal name Ptr
++28 ^^ length
++2C ^^ capacity
++30 Internal item explain Ptr
++38 ^^ length
++3C ^^ capacity
+
+NOTE: A second array exists after the Id to Details vector of same length, investigate
+
 GetItemName struct: (0x100 bytes)
 +00     Code Pointer
 +08     Icon path string Pointer (ex "336" string)

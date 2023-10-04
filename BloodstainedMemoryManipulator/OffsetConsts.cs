@@ -7,6 +7,7 @@ internal static class OffsetConsts
     public static readonly nint[] PlayerData4 = new nint[] { 0x0AABEC88, 0x00, 0x20 };
     public static readonly nint[] PlayerData5 = new nint[] { 0x0AABEC88, 0x00, 0x220 };
 
-    public static readonly nint[] Inventories = PlayerData1.Concat(new nint[] { 0xD28 }).ToArray();
-    public const int StartOfInventories = 0x968;
+    public static readonly nint[] Inventories = PlayerData1.Concat(new nint[] { 0xD28, 0x968 }).ToArray();
+
+    public static readonly nint[] IdToDetailsVector = new nint[] { 0x0A81CEE0, 0x280, 0xF0, 0x270, 0xC18, 0x30 };
 }

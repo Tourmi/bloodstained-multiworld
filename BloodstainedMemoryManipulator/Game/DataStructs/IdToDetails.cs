@@ -6,7 +6,7 @@ namespace BloodstainedMemoryManipulator.Game.DataStructs;
 internal struct IdToDetails
 {
     [FieldOffset(0x00)]
-    public int Id;
+    public long Id;
 
     [FieldOffset(0x08)]
     public nint ItemDetailsPointer;

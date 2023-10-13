@@ -5,7 +5,12 @@ VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BloodstainedMemoryManipulator", "BloodstainedMemoryManipulator\BloodstainedMemoryManipulator.csproj", "{6D696062-E2A6-4AAF-9939-9058804CA4A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArchipelagoClient", "ArchipelagoClient\ArchipelagoClient.csproj", "{EF13A68A-2CCB-4272-AE76-1B80EFE77CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArchipelagoClient", "ArchipelagoClient\ArchipelagoClient.csproj", "{EF13A68A-2CCB-4272-AE76-1B80EFE77CC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{13FF4A82-ED27-4A52-97B2-3E9BF745B6FF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

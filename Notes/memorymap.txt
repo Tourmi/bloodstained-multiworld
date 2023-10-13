@@ -127,11 +127,11 @@ GetItemName struct: (0x100 bytes)
 +10     4, 8
 +18     Some value
 +20     ITEM_NAME_MeltedBone (Translation key)
-+28     15?
-+2C     18?
++28     ITEM_NAME Length
++2C     ITEM_NAME Capacity
 +30     ITEM_EXPLAIN_MeltedBone (Translation key)
-+38     18?
-+3C     18?
++38     ITEM_EXPLAIN Length
++3C     ITEM_EXPLAIN Capacity
 +40     63
 +44     64
 +48     A?
